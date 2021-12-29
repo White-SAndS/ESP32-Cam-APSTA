@@ -24,8 +24,8 @@
 
 const char* ssid = "rainbow";
 const char* password = "010203040506";
-const char *soft_ap_ssid = "ESP32Cam";
-const char *soft_ap_password = "010203040506";
+const char* soft_ap_ssid = "ESP32Cam";
+const char* soft_ap_password = "010203040506";
 
 
 void startCameraServer();
