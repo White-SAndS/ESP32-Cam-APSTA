@@ -3,7 +3,7 @@
 Eigentlich geht es nur darum den ESP32-Cam-Server sowohl über einen möglicherweise vorhandenen Router als auch direkt über das Device selbst zu erreichen. Die klassische Konfiguration sieht leider nur ein entweder STA oder AP Mode vor.
 Zum Glück ist aber der Umbau relativ simpel....
 
-Als erstes müssen zusätzlich zu den Credentials des AP im Station Mode noch die Credentials des SoftAP erzeugt werden:
+Als erstes müssen zusätzlich zu den Credentials im Station Mode noch die Credentials des SoftAP erzeugt werden:
 
 ```
 const char* ssid = "glibber";
