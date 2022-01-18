@@ -20,11 +20,11 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "rainbow";
-const char* password = "010203040506";
+const char* ssid = "glibber";
+const char* password = "12345678";
 
-const char* ap_ssid = "CAM32";
-const char* ap_password = "010203040506";
+const char* ap_ssid = "blubberAP";
+const char* ap_password = "87654321";
 
 void startCameraServer();
 
