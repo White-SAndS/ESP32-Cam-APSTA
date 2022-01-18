@@ -10,8 +10,8 @@ Als erstes müssen zusätzlich zu den Credentials im Station Mode noch die Crede
 ```
 const char* ssid = "glibber";
 const char* password = "12345678";
-const char* ap_ssid = "ESP32Cam";
-const char* ap_password = "12345678";
+const char* ap_ssid = "blubberAP";
+const char* ap_password = "87654321";
 ```
 Schön darauf achten das das Passwort, wenn es nicht leer ist, mindestens 8 Zeichen lang ist!
 
